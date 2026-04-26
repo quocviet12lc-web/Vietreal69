@@ -17,6 +17,11 @@ h1 {
     color: aliceblue;
    font-family: 'Google Sans Flex', sans-serif;
 }
+h3 {
+    color: aliceblue;
+   font-family: 'Google Sans Flex', sans-serif;
+   margin-left: 10px;
+}
 body {
     background-color: #5c8ce6;
 }
@@ -35,4 +40,20 @@ a {
     color: rgb(196, 219, 240);
     font-size: 20px;
     margin-top: 10px;
+}
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Google Sans Flex', sans-serif;
+    color: #5c8ce6;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    transition: 0.5s;
+}
+button:hover {
+    width: 150px;
+    height: 50px;
+    transition: 0.5s;
+    font-size: 40px;
 }
