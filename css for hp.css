@@ -1,8 +1,38 @@
 
-h1, h2 {
+p {
+    font-size: 20px;
+    font-family: 'Google Sans Flex', sans-serif;
     color: aliceblue;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+}
+img{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 0px;
+    height: 200px;
+    width: 200px;
+}
+h1 {
+    font-size: 40px;
+    color: aliceblue;
+   font-family: 'Google Sans Flex', sans-serif;
 }
 body {
-    background-color: rgb(42, 42, 255);
+    background-color: #5c8ce6;
+}
+h2 {
+    color: aliceblue;
+   font-family: 'Google Sans Flex', sans-serif;
+    margin-left: 10px;
+    font-size: 30px;
+}
+donators {
+    color: aliceblue;
+    margin-left: 10px;
+}
+a {
+    font-family: 'Google Sans Flex', sans-serif;
+    color: rgb(196, 219, 240);
+    font-size: 20px;
+    margin-top: 10px;
 }
